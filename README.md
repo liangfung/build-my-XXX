@@ -1,5 +1,5 @@
 # My-XXX-implementation
-build-my-own-XXX,such as redux, MVVM, bundlers....
+build-my-own-redux, MVVM, bundlers....
 
 
 ## react
