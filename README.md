@@ -3,7 +3,6 @@ build my own bundlers, react, redux, mobx, MVVM, performance-monitor....
 
 > 从零实现一个最小可用产品--MVP(minimum viable product),可以帮助我们把握这个技术/领域的本质所在。
 
-that is what i am doing
 
 ## promise
 - [promise-implementation](https://github.com/liangfung/promise-implementation)
