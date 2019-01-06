@@ -5,6 +5,9 @@ build my own bundlers, react, redux, mobx, MVVM, performance-monitor....
 
 that is what i am doing
 
+## promise
+- [promise-implementation](https://github.com/liangfung/promise-implementation)
+
 ## bundler
 - [minipack](https://github.com/liangfung/minipack-implementation)
 
