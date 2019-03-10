@@ -8,7 +8,11 @@ build my own bundlers, react, redux, mobx, MVVM, performance-monitor....
 - [promise-implementation](https://github.com/liangfung/promise-implementation)
 
 ## bundler
+- [liang-pack](https://github.com/liangfung/liang-pack)
 - [minipack](https://github.com/liangfung/minipack-implementation)
+
+## webpack-loader
+- [myLoade](https://github.com/liangfung/my-loader)
 
 ## react
 
